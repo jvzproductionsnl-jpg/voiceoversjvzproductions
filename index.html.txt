@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<title>Audio Player</title>
+</head>
+<body>
+  <div style="max-width: 400px; margin: 50px auto; padding: 20px; border: 1px solid #ccc; border-radius: 8px; text-align: center; background-color: #f9f9f9;">
+    <audio controls style="width: 100%;">
+      <source src="voiceovercommercial.mp3" type="audio/mpeg">
+      Je browser ondersteunt deze audio tag niet.
+    </audio>
+  </div>
+</body>
+</html>
